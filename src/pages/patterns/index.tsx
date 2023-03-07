@@ -1,6 +1,6 @@
-import ControlledFlow from "@/pages/components/ControlledFlow";
+import ControlledFlow from "@/components/ControlledFlow";
 import {useState} from "react";
-import UncontrolledFlow from "@/pages/components/UncontrolledFlow";
+import UncontrolledFlow from "@/components/UncontrolledFlow";
 
 export default function Patterns() {
 
